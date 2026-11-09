@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "tday": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-g",
+        "-y",
+        "@tday-com/mcp@0.4.10",
+        "serve"
+      ],
+      "env": {
+        "TDAY_MCP_PLUGIN": "1"
+      }
+    }
+  }
+}

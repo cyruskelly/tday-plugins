@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "tday": {
+      "command": "npx",
+      "args": [
+        "-g",
+        "-y",
+        "@tday-com/mcp@0.4.10",
+        "serve"
+      ],
+      "env": {
+        "TDAY_MCP_PLUGIN": "1"
+      }
+    }
+  }
+}
