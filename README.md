@@ -15,7 +15,7 @@ Simulator, Android apps on the emulator and Mac apps. You need a tday account
 ### Claude Code
 
 ```bash
-claude plugin install tday@tday --marketplace tday-com/tday-plugins
+claude plugin install tday --marketplace tday-com/tday-plugins
 ```
 
 Or inside a session: `/plugin marketplace add tday-com/tday-plugins`, then `/plugin install tday@tday`.
