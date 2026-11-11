@@ -1,0 +1,26 @@
+.claude-plugin/plugin.json
+  h_da61ae801e8c5c 3
+.cursor-plugin/plugin.json
+  h_da61ae801e8c5c 3
+.mcp.json
+  h_da61ae801e8c5c 6-7,9
+README.md
+  h_da61ae801e8c5c 31-37,65-67
+mcp.json
+  h_da61ae801e8c5c 8-9,11
+plugin.json
+  h_da61ae801e8c5c 4
+skills/tday-capture/SKILL.md
+  h_da61ae801e8c5c 20-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "54d7a9d8b8ba6a8a582c2743247890f6edcbbd4b",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
