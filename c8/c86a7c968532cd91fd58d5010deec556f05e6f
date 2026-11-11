@@ -1,0 +1,30 @@
+mcp.json
+  h_da61ae801e8c5c 8-9,11
+skills/tday-capture/SKILL.md
+  h_da61ae801e8c5c 20-21
+README.md
+  h_da61ae801e8c5c 31-37,65-67
+plugin.json
+  h_da61ae801e8c5c 4
+.claude-plugin/plugin.json
+  h_da61ae801e8c5c 3
+.mcp.json
+  h_da61ae801e8c5c 6-7,9
+.cursor-plugin/plugin.json
+  h_da61ae801e8c5c 3
+glama.json
+  h_da61ae801e8c5c 1-7
+llms-install.md
+  h_da61ae801e8c5c 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c8c86a7c968532cd91fd58d5010deec556f05e6f",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
